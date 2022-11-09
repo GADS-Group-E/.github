@@ -61,13 +61,13 @@ To give students information about the words under study in one go.
 
 ### Usecase:
 
-A student starts a practice session 
+- A student starts a practice session 
 
-the system prints a random word from the repository but hides a few letters in random positions. 
+- The system prints a random word from the repository but hides a few letters in random positions. 
 
-Using text to speech, the system pronounces the word and defines it. 
+- Using text to speech, the system pronounces the word and defines it. 
 
-The text to speech service will also read out the origin, definition and sentence use of the word.
+- The text to speech service will also read out the origin, definition and sentence use of the word.
 
 ---
 
