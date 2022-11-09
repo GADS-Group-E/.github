@@ -2,6 +2,14 @@
 
 # Welcome To Eduteam 6 on the GADS Program. 
 ---
+
+## Meet The Team
+- [Confidence Bassey](https://github.com/confidence-bassey) - Project Lead / Android Developer
+- [James Amattey](https://github.com/jamattey) - Product Manager / GADS Google Cloud Track
+
+
+
+
 ## Problem Statement
 
 ### Background
